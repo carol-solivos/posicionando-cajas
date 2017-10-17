@@ -1,0 +1,37 @@
+h1 {
+	color:#FF0000;
+	font-family: 'Orbitron', sans-serif;
+}
+
+.cuadro-rojo {
+	border: 100px solid #FF0000;
+	background-color: #72008A;
+	width: 200px;
+	height: 200px;
+	position: absolute;
+}
+
+.cuadro-amarillo{
+	background-color: #F5FE02;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+}
+
+.cuadro-verde {
+	border: 100px solid #3600FF;
+	background-color: #019516;
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	top: 500px;
+}
+
+.cuadro-negro{
+	background-color: #000;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	top: -100px;
+	left: -100px;
+}
